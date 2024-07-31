@@ -11,3 +11,9 @@
 1. CSVデータファイルをアップロード
 2. データを読み込みグラフ表示
 3. 表示したグラフをダウンロード
+
+また、このテンプレートを利用した例はこちらになります。
+
+測定ファイルを読み込んで、可視化し、Fittingを行いその結果を表示・ダウンロードするプログラム
+- https://github.com/s-yagyu/AcViewer
+- https://github.com/s-yagyu/ACdat-AutoFit
